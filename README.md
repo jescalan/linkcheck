@@ -4,6 +4,6 @@ NPM package wrapper for [filiph/linkcheck](https://github.com/filiph/linkcheck).
 
 ### Usage
 
-- `npm i linkcheck`
+- `npm i dart-linkcheck -D`
 - In your `package.json` under `scripts`, add `linkcheck: 'linkcheck'`
 - Run it with `npm run linkcheck -- <args>`
