@@ -1,0 +1,24 @@
+{
+  "name": "linkcheck",
+  "description": "Fast link checker, wrapped from filiph/linkcheck",
+  "version": "2.0.12",
+  "author": "Jeff Escalante",
+  "bin": {
+    "linkcheck": "bin/linkcheck"
+  },
+  "bugs": {
+    "url": "https://github.com/jescalan/linkcheck/issues"
+  },
+  "homepage": "https://github.com/jescalan/linkcheck#readme",
+  "keywords": [
+    "broken",
+    "check",
+    "link",
+    "website"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jescalan/linkcheck.git"
+  }
+}
