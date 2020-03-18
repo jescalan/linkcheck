@@ -1,7 +1,7 @@
 {
   "name": "dart-linkcheck",
   "description": "Fast link checker, wrapped from filiph/linkcheck",
-  "version": "2.0.12",
+  "version": "2.0.13",
   "author": "Jeff Escalante",
   "bin": {
     "linkcheck": "bin/linkcheck"
