@@ -2,6 +2,8 @@
 
 NPM package wrapper for [filiph/linkcheck](https://github.com/filiph/linkcheck). Exposes only a binary that can be used to run the latest executable. Version updated occasionally, npm version pinned to the dart registry version. This simply makes the package easier to consume if it's being used as part of a node project. If you'd like to update the version, feel free to send in a PR!
 
+NOTE: This package defaults to using the OSX version, but ships windows and linux binaries in the `bin` folder.
+
 ### Usage
 
 - `npm i dart-linkcheck -D`
