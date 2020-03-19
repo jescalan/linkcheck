@@ -4,7 +4,9 @@
   "version": "2.0.14",
   "author": "Jeff Escalante",
   "bin": {
-    "linkcheck": "bin/linkcheck"
+    "linkcheck": "bin/linkcheck",
+    "linkcheck-linux": "bin/linkcheck-linux",
+    "linkcheck-win": "bin/linkcheck-win"
   },
   "bugs": {
     "url": "https://github.com/jescalan/linkcheck/issues"
